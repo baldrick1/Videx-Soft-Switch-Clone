@@ -1,0 +1,15 @@
+Videx Soft Switch Clone,
+,
+R1,200R
+R2,2K
+R3,2K
+R4,10K
+R5,5.1K
+R6,28R
+D1,1N914
+D2,1N914
+RV1,200 ohm variable resistor trimpot
+Q1,2N3904
+Q2,2N3906
+U1,16 pin socket plus 16 pin long DIP header
+H1,5 pin header 90deg
