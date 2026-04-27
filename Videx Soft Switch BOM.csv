@@ -12,4 +12,6 @@ RV1,200 ohm variable resistor trimpot
 Q1,2N3904
 Q2,2N3906
 U1,16 pin socket plus 16 pin long DIP header
-H1,5 pin header 90deg
+J1,2 pin header 90deg
+J2,2 pin header 90deg
+J3,2 pin header 90deg
